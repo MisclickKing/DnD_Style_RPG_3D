@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3268581716708699852
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2432107255976236698, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 356359911236942506}
+    - target: {fileID: 2432107255976236698, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2654349038551332519, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2914940223429101284, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -5.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3827659591958512247, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5593339149384552781, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5839296162787227563, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Name
+      value: MainCharacter Variant 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5839296162787227563, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5839296162787227563, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 8011852530258835589, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b97dce9b791223147982040c61183c7c, type: 2}
+    - target: {fileID: 8571708485519553718, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      propertyPath: m_Speed
+      value: 5
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5839296162787227563, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 356359911236942506}
+    - targetCorrespondingSourceObject: {fileID: 5839296162787227563, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3045588395409109023}
+  m_SourcePrefab: {fileID: 100100000, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+--- !u!195 &6604676957069777530 stripped
+NavMeshAgent:
+  m_CorrespondingSourceObject: {fileID: 8571708485519553718, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+  m_PrefabInstance: {fileID: 3268581716708699852}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8959081520630978919 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5839296162787227563, guid: 5b8bab5f88c1e104d9ab216cf9709832, type: 3}
+  m_PrefabInstance: {fileID: 3268581716708699852}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &356359911236942506
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8959081520630978919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 791e97aeb961fcb43893349a1646f80e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charName: 
+  health: 0
+  currentHealth: 0
+  steps: 0
+  actionPoints: 0
+  bonusActionPoints: 0
+  partyMember: 0
+  groupedTogether: 0
+  focusedTarget: 0
+  turnBasedMode: 0
+  hostile: 0
+--- !u!114 &3045588395409109023
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8959081520630978919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c179913c553300438542f60773d10c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character: {fileID: 356359911236942506}
+  characterNav: {fileID: 6604676957069777530}
+  cam: {fileID: 0}
+  followDistance: 2
+  leader: {fileID: 0}
